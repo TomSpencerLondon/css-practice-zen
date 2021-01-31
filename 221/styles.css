@@ -1,0 +1,15 @@
+html {
+    font-family: sans-serif;
+    color: grey;
+    height: 50%;
+    background-image: url("home-hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+

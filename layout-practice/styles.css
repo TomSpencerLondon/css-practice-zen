@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+.left-column {
+    background: rgba(255, 150, 0, 0);
+    opacity: 0.5;
+    display: inline-block;
+    vertical-align: top;
+    width: 24%;
+}
+
+.right-column {
+    background: rgba(0, 255, 0, 0.2);
+    display: inline-block;
+    vertical-align: top;
+    width: 75%;
+}
+
+footer {
+    background: rgba(0, 0, 255, 0.01);
+    text-align: center;
+}
+
+li {
+    margin: 40px 20px;
+}
